@@ -1,0 +1,64 @@
+{
+    "AllExpensesItems": [
+        {
+            "icon": "asstes/images/balance.svg",
+            "title": "Balance",
+            "date": "April 2022",
+            "price": "$20,129"
+        },
+        {
+            "icon": "asstes/images/income.svg",
+            "title": "Income",
+            "date": "April 2022",
+            "price": "$20,129"
+        },
+        {
+            "icon": "asstes/images/expenses.svg",
+            "title": "Expenses",
+            "date": "April 2022",
+            "price": "$20,129"
+        }
+    ],
+    "drawer": [
+        {
+            "image": "asstes/images/dashBoard.svg",
+            "title": "Dashboard"
+        },
+        {
+            "image": "asstes/images/my_transaction.svg",
+            "title": "My Transaction"
+        },
+        {
+            "image": "asstes/images/statistics.svg",
+            "title": "Statistics"
+        },
+        {
+            "image": "asstes/images/wallet.svg",
+            "title": "Wallet Account"
+        },
+        {
+            "image": "asstes/images/wallet.svg",
+            "title": "My Investments"
+        }
+    ],
+    "transcationHistory": [
+        {
+            "title": "Cash Withdrawal",
+            "subTitle": "13 Apr, 2022",
+            "amount": "$20,129",
+            "amountColor": "0XFfF3735E"  
+        },
+        {
+            "title": "Landing Page project",
+            "subTitle": "13 Apr, 2022 at 3:30 PM",
+            "amount": "$20,129",
+            "amountColor": "0XFF7DD97B"
+        },
+        {
+            "title": "Juni Mobile App project",
+            "subTitle": "13 Apr, 2022 at 3:30 PM",
+            "amount": "$20,129",
+            "amountColor": "0XFF7DD97B"
+        }
+    ]
+}
